@@ -137,8 +137,8 @@ Our best performed model with accuracy (0.90) metric is XG Boost and Logistic. T
 •	Given these factors, it is recommended to concentrate on those consumer groups that are potentially more promising.
 •	Many banks use direct marketing strategies to enable customers to access adequate information about the products. Researchers suggest that the applicability of data mining techniques depends on the availability of customers’ information. Also, studies reveal that machine learning techniques determine customer response to bank products.
 •	The ability of the customers to subscribe to term deposits depends on the marketing campaign by the bank. In this research work three machine learning algorithms (Logistic regression, Decision Tree, Random Forest, XGB Classifier, KNN, ANN) were deployed to find out the main factor that influences customers decision to subscribe to a term deposit in the bank. Correlation heatmap was then used to get the most important factors that influence customer decisions and was then retrained to perform the
-----------------------------------------Thank You ----------------------------------------------
 
+-------------------------------------------------------------------Thank You-------------------------------------------------------------------
 
 
 
